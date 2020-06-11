@@ -9,3 +9,8 @@
 ![](https://github.com/gholinejad/COD_Phase1/Report/COD_Pj_Phase1_Report_953220072.pdf)
 
 
+<object data="https://github.com/gholinejad/COD_Phase1/Report/COD_Pj_Phase1_Report_953220072.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/gholinejad/COD_Phase1/Report/COD_Pj_Phase1_Report_953220072.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
