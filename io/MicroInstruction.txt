@@ -1,0 +1,7 @@
+2 IN -> R0 ||
+3 IN -> ACC ||
+4 Lcheck: (R0 - ACC) || JUMP_IF_Z Ldone
+5 (R4 - ACC) << 1 || JUMP_IF_C LSmall
+6 R0 - ACC -> R0 || JUMP Lcheck
+7 LSmall: ACC - R6 -> ACC || JUMP Lcheck
+8 Ldone:  || JUMP Ldone
